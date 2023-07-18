@@ -10,3 +10,17 @@ Author Kim Venho.
 2. Open software-dev-skills-mobile/project in android studio IDE.
 
 3. Click the run button in top right (Shift+F10)
+
+== Troubleshoot:
+
+
+
+=== Run button is disabled
+
+- make sure you have created an android device, or linked your own phone to android studio.
+
+- Try to create new configuration config
+** In top toolbar, select run -> edit configurations
+** Click the + icon in top left
+** Select android app
+** change module to 'cat-shopper.app.main'

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "tutorial-part3"
+rootProject.name = "cat-shopper"
 include ':app'
