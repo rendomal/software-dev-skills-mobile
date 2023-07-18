@@ -17,7 +17,7 @@ Author Kim Venho.
 
 === Run button is disabled
 
-- make sure you have created an android device, or linked your own phone to android studio.
+- Make sure you have created an android device, or linked your own phone to android studio.
 
 - Try to create new configuration config
 ** In top toolbar, select run -> edit configurations
