@@ -1,0 +1,12 @@
+This is course work for LUT University's Software Development Skills: Mobile 2022-23.
+
+Author Kim Venho.
+
+== How to run:
+
+
+1.  Clone repository with `git clone https://github.com/rendomal/software-dev-skills-mobile.git`
+
+2. Open software-dev-skills-mobile/project in android studio IDE.
+
+3. Click the run button in top right (Shift+F10)

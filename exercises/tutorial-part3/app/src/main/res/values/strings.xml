@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tutorial-part3</string>
+
+    <string-array name="items">
+        <item>Whiskers</item>
+        <item>Angel</item>
+        <item>Lola</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>2225.05 €</item>
+        <item>3345.24 €</item>
+        <item>5030.65 €</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Very upside</item>
+        <item>Very agile</item>
+        <item>Very beauty</item>
+    </string-array>
+</resources>
